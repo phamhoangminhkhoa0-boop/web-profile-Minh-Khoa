@@ -31,7 +31,7 @@ system_info = {
     "site_locked": False,      
     "results_locked": False,
     "bg_url": "https://i.pinimg.com/736x/30/51/0d/30510d195488ce7dba3259c0c414170c.jpg",
-    "avatar_url": "https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.30808-6/695975516_122252794928254016_731605472129309910_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=swH4G62RcP0Q7kNvwFqpmzw&_nc_oc=AdrK7RjzEZUSeI4djxHgQHEabYeybJ1_gJqbboZrNh58PHPK00ico6JQr9FD3mZRCsA&_nc_zt=23&_nc_ht=scontent.fsgn8-4.fna&_nc_gid=Ff-GEmQ7CLAOKbZxrgwfpw&_nc_ss=7b2a8&oh=00_Af-Ud5ELV1B8D_tJISmQa8LxtagZrNxFlSxS4Tz37vETwg&oe=6A264F1A",
+    "avatar_url": "https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.30808-6/695975516_122252794928254016_731605472129309910_n.jpg?stp=dst-jpg_tt6&cstp=mx649x654&ctp=s649x654&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GXoxsOgXZQ0Q7kNvwFSO4rP&_nc_oc=AdqOYIn4SbqSZeAIZ5zHbv6SMQa8YRcOjzalCGV_Sr7h-LPAx8KCQKTYlJkr8VqyPuw&_nc_zt=23&_nc_ht=scontent.fsgn8-4.fna&_nc_gid=9Y77AoE0RDYjF5Eq26luxw&_nc_ss=7a2a8&oh=00_Af87hif2f7UXCotLksEzLHjPJ4HSttzmSghuRrFtUEmOKA&oe=6A2DFFDA"
     
     "family_input_data": "Chưa có dữ liệu thành viên. Hãy vào Admin để nhập mục gia đình phân dòng rõ ràng!",
     "school_conclusion": "Chưa có kết quả."

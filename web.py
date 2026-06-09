@@ -14,7 +14,7 @@ system_info = {
     "title": "PROFILE CỦA MINH KHOA",
     "name": "Phạm Hoàng Minh Khoa",
     "subtitle_custom": "Chào mừng mọi người đến với profile cá nhân ! ",
-    "version": "2.5.0",
+    "version": "1.0.0 beta",
     "birthday": "2011",
     "hometown": "Hội An - Quảng Nam - Đà Nẵng",
     "hobbies": "no data",

@@ -1,0 +1,9 @@
+📂 PROJECT PERSONAL WEB/
+├── 🐍 web.py              # File chạy chính Flask
+└── 📂 templates/          # Thư mục chứa giao diện HTML
+    ├── 🖥️ welcome.html     # TRANG MỞ ĐẦU (Hiện "Xin chào nhé", giới thiệu nhỏ, chọn Admin/Khách)
+    ├── 🖥️ family_gate.html # Cổng xác thực danh tính cho gia đình
+    ├── 🖥️ index.html       # Trang chủ chính nội bộ (Xem thông tin, gửi bình luận)
+    ├── 🖥️ closed.html      # Trang khóa bảo trì
+    ├── 🖥️ login.html       # Trang đăng nhập tài khoản Admin
+    └── 🖥️ admin.html       # Trang quản trị điều khiển

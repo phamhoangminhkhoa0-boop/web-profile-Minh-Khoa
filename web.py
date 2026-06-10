@@ -15,7 +15,7 @@ system_info = {
     "name": "Phạm Hoàng Minh Khoa",
     "subtitle_custom": "Chào mừng mọi người đến với profile cá nhân ! ",
     "version": "1.0.0 beta",
-    "birthday": "2011",
+    "birthday": "12/05/2011",
     "hometown": "Hội An - Quảng Nam - Đà Nẵng",
     "hobbies": "no data",
     "target": "no data",
@@ -38,10 +38,10 @@ system_info = {
 
 comments_list = []
 
-ADMIN_ACCOUNT = {"username": "Phạm Hoàng Minh khoa", "password": "123"}
+ADMIN_ACCOUNT = {"username": "MinhKhoaKENIE2026", "password": "MinhKhoa2011@@ken"}
 SECURITY_CONFIG = {
-    "admin_pin": "2026",              
-    "family_gate_pin": "giadinh2026"  
+    "admin_pin": "1205",              
+    "family_gate_pin": "family2026happyandfunny"  
 }
 
 current_layer3_code = None
